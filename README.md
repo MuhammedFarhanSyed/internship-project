@@ -110,9 +110,7 @@ This project is for educational and internship purposes only.
 
 ---
 
-## ✅ Next Steps
 
-Save this content into a `README.md` file inside your project folder. Then run the following commands to commit and push the changes:
 
 ```bash
 git add README.md
